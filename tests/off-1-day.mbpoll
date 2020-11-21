@@ -1,0 +1,1 @@
+mbpoll -a 10 -b 9600 -d 8 -s 1 -P none -t 4 -o 10.00 -l 100 -r 14 -v /dev/ttyUSB0 3
